@@ -1,0 +1,13 @@
+# Archivos
+*.txt
+*.swp
+*.temp
+*.tmp
+*.dll
+*.html
+
+# Carpetas
+logs/
+docs
+temp/
+tmp/
